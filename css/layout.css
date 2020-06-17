@@ -129,7 +129,7 @@ article{
 footer{
     width: 90%;
     height: 10%;
-    background-color: #bebebe;
+    background-color: #E1E9DD;
     margin: auto;
     text-align: center;
     line-height:190px;
@@ -138,4 +138,41 @@ footer p{
     display: inline;
     
 }
+.greenline{
+    float: left;
+}
+.code{
+    float: left;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
